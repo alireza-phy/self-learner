@@ -1,7 +1,7 @@
 # Self-Learner — Project Definition
 
-> **Status:** Foundation / Product Definition  
-> **Document role:** Primary project map and current product specification  
+> **Status:** Foundation / Product Definition
+> **Document role:** Primary project map and current product specification
 > **Last updated:** 2026-09-19
 
 ---
@@ -998,37 +998,37 @@ The project should follow these principles:
 
 The following decisions are currently established:
 
-| Area | Current decision |
-|---|---|
-| Initial programming language | JavaScript |
-| Primary learner | Beginner / non-technical user |
-| Learning model | Course → Level → Chapter → Lesson |
-| Lesson duration | Approximately 5–10 minutes |
-| Lesson exercise | Required exercise + optional additional exercises |
-| Lesson exercise AI use | Learner should solve without AI |
-| Exercise review | AI feedback |
-| Exercise review as progression gate | No |
-| Chapter project | Required |
-| Chapter project AI use | AI-assisted |
-| Chapter project review | AI or manual |
-| Chapter project passing target | 70/100 initially |
-| Level project | Optional |
-| Level project scope | Larger, potentially full-stack |
-| Level project review | AI or manual |
-| Level project passing target | 80/100 initially |
-| Level project retry | Unlimited initially |
-| Star | Earned by passing Level Project |
-| Level progression | Requires all Chapter Projects |
-| Chapter progression | Requires Chapter Project |
-| Lesson progression | Does not require previous exercise |
-| Curriculum style | Progressive / revisiting concepts |
-| Gamification | Planned |
-| AI coding agent | Required future integration |
-| Testing | Required |
-| CI/CD | Required |
-| Documentation system | Required |
-| Course marketplace | Future direction |
-| Monetization | Future direction |
+| Area                                | Current decision                                  |
+| ----------------------------------- | ------------------------------------------------- |
+| Initial programming language        | JavaScript                                        |
+| Primary learner                     | Beginner / non-technical user                     |
+| Learning model                      | Course → Level → Chapter → Lesson              |
+| Lesson duration                     | Approximately 5–10 minutes                       |
+| Lesson exercise                     | Required exercise + optional additional exercises |
+| Lesson exercise AI use              | Learner should solve without AI                   |
+| Exercise review                     | AI feedback                                       |
+| Exercise review as progression gate | No                                                |
+| Chapter project                     | Required                                          |
+| Chapter project AI use              | AI-assisted                                       |
+| Chapter project review              | AI or manual                                      |
+| Chapter project passing target      | 70/100 initially                                  |
+| Level project                       | Optional                                          |
+| Level project scope                 | Larger, potentially full-stack                    |
+| Level project review                | AI or manual                                      |
+| Level project passing target        | 80/100 initially                                  |
+| Level project retry                 | Unlimited initially                               |
+| Star                                | Earned by passing Level Project                   |
+| Level progression                   | Requires all Chapter Projects                     |
+| Chapter progression                 | Requires Chapter Project                          |
+| Lesson progression                  | Does not require previous exercise                |
+| Curriculum style                    | Progressive / revisiting concepts                 |
+| Gamification                        | Planned                                           |
+| AI coding agent                     | Required future integration                       |
+| Testing                             | Required                                          |
+| CI/CD                               | Required                                          |
+| Documentation system                | Required                                          |
+| Course marketplace                  | Future direction                                  |
+| Monetization                        | Future direction                                  |
 
 ---
 
