@@ -33,6 +33,7 @@ self-learner/
 │   ├── lib/                  # Shared utilities, AI SDK clients, helper functions
 │   └── types/                # Shared global TypeScript types
 ├── AGENTS.md                 # Operating contract for AI coding agents
+├── GEMINI.md                 # Agent directive: follow PROJECT.md and AGENTS.md
 ├── PROJECT.md                # Primary product specification and project map
 └── package.json
 ```
