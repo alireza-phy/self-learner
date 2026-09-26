@@ -72,6 +72,14 @@ If approved:
 
 Do not modify project rules merely because another implementation is easier.
 
+### Step 4 — Update `main` and create a task branch
+
+Whenever a new requirement is identified, after checking the relevant `.md` files and before making any project changes:
+
+1. switch to `main` and update it from the remote with a fast-forward-only pull,
+2. create a new appropriately named branch from the updated `main`,
+3. make and validate the changes on that branch.
+
 ---
 
 ## 3. Documentation Is the Navigation Layer
